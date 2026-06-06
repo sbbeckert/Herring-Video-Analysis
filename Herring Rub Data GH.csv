@@ -1,0 +1,149 @@
+﻿video.ID,date,site.code,herring,smelt,rub,num.fish.rub,substrate.kelp,substrate.debris,kelp.blade,kelp.stipe,lice.visrange,lice.present,lice.postrub,comments
+H1,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A  ,Caligus visible in the water column
+H1,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A  ,Caligus visible in the water column
+H1,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in the water column
+H1,8/19/20,turnptsji,1,0,1,small group,N/A,1,0,0,1,0,N/A  ,debris = eelgrass
+H1,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,"very large school rubbing -- initial fish had random orientation, but at the end there was a good demonstration of 'wait in line'"
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,1,1,1,1,unclear,rubbing on stalk and blade for same kelp ; poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,1,1,unclear,poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,N/A,1,0,0,1,0,N/A,debris = eelgrass ; poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H2,8/19/20,turnptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H3,7/2/23,fwb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,video cut off before I could confirm rubbing behavior
+H4,7/2/23,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,super brief rubbing
+H5,7/2/23,fwb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,unable to confirm rubbing behavior
+H6,7/2/23,fwb,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"unable to confirm rubbing behavior, sandlance"
+H7,8/22/20,sji,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,"debris = eelgrass, Caligus visible in water column"
+H7,8/22/20,sji,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass 
+H8,7/2/23,fwb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"unable to confirm rubbing behavior, sandlance"
+H9,7/2/23,fwb,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,unable to confirm rubbing behavior
+H10,7/2/23,fwb,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,unable to confirm rubbing behavior
+H11,7/2/23,fwb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"no rubbing, herring milt"
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,same x 2 ; unclear,"debris = eelgrass, very licey herring in the first few seconds"
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,same x 1 ; unclear,debris = eelgrass
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,debris = floating algae
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,unclear,"debris = eelgrass ; chasing fish, so all rubbing is brief"
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,unclear,debris = eelgrass 
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,unclear,debris = eelgrass 
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,same x 5 ; unclear,debris = eelgrass 
+H12,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,same x 4 ; unclear,debris = eelgrass 
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A  ,
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,1,1,same x 1 ; unclear,poor visibility
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility
+H13,7/8/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility
+H14,8/13/21,pileptsji,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H15,8/13/21,pileptsji,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,Caligus visible in water column ; debriss = eelgrass
+H15,8/13/21,pileptsji,1,0,1,large group,N/A,1,0,0,1,1,same x 4 ; unclear,Caligus visible in water column ; debriss = eelgrass
+H16,8/13/21,pileptsji,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H17,8/13/21,pileptsji,1,0,1,large group,N/A,1,0,0,1,1,unclear,Caligus visible in water column ; debris = eelgrass (with substantial red algal growth)
+H17,8/13/21,pileptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column
+H18,8/13/21,pileptsji,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H19,8/13/21,pileptsji,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H20,8/13/21,pileptsji,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H21,8/13/21,pileptsji,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H22,8/13/21,pileptsji,1,0,1,small group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H22,8/13/21,pileptsji,1,0,1,small group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H22,8/13/21,pileptsji,1,0,1,small group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H23,7/26/20,cb,1,1,1,small group,bull,0,0,1,1,1,same x 13 ; unclear,1 fish with 11 rubs in a row: 10 on same side with an adult caligus ; only herring rub
+H24,7/21/21,cb,1,0,1,large group,bull,0,0,1,1,1,same x 2 ; unclear,
+H24,7/21/21,cb,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H24,7/21/21,cb,1,0,1,small group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H24,7/21/21,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H24,7/21/21,cb,1,0,1,large group,bull,0,0,1,1,1,unclear,
+H25,7/14/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 2 ; unclear,1 fish rubbed same side 9 times
+H25,7/14/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 12 ; unclear,
+H25,7/14/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 3 ; unlcear,
+H25,7/14/19,fwb,1,0,1,large group,bull,0,0,1,1,1,unclear,
+H26,7/2/23,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 35 ; unclear,
+H26,7/2/23,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H27,7/2/23,fwb,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H28,7/19/20,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 8 ; unclear,
+H28,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass
+H28,7/19/20,fwb,1,0,1,large group,bull,1,0,0,0,N/A,N/A,"debris = bull kelp, rubbing on the air bladders/stipe connection"
+H28,7/19/20,fwb,1,0,1,large group,N/A,1,0,0,1,1,same x 2 ; unclear,debris = eelgrass ; barely in vis range
+H29,8/13/21,pileptsji,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H30,7/2/23,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H30,7/2/23,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 12 ; unclear,
+H31,7/13/19,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H31,7/13/19,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H31,7/13/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 28 ; unclear,good clips of licey fish mid way through
+H31,7/13/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 3 ; unlcear,
+H32,7/13/19,fwb,1,1,1,large group,bull,0,0,1,1,1,same x 3 ; unlcear,only herring rub
+H33,7/13/19,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H33,7/13/19,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 1 ; unclear,very hard to see the lice
+H33,7/13/19,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H34,No date (2019-2025),N/A,1,0,1,large group,bull,0,0,1,1,1,JUMP x 1 ; same x 24 ; unclear,LOUSE JUMP ; caligus visible in the water column
+H34,No date (2019-2025),N/A,1,0,1,large group,bull,0,0,1,1,1,unclear,Caligus visible in water column ; stipe too distance to see exact interaction
+H34,No date (2019-2025),N/A,1,0,1,large group,bull,0,0,1,1,1,unclear,Caligus visible in water column
+H35,6/25/24,fwb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H36,6/25/24,fwb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H37,6/25/24,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 9 ; unclear,caligus visible in the water column
+H38,6/25/24,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H39,6/25/24,fwb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,low visibility -- unable to confirm rub behavior
+H40,6/25/24,fwb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H41,6/25/24,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 1 ; unclear,most out of visible lice range
+H42,6/25/24,fwb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H43,7/4/25,fwb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H44,7/4/25,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 6 ; unclear,low visibility ; one loop-dee-loop with tough vis
+H45,7/4/22,cb,0,1,1,small group,bull,0,0,1,0,N/A,N/A,SMELT RUB
+H46,7/4/24,cb,0,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,sandlance
+H47,7/4/24,cb,1,0,1,large group,bull,0,0,1,1,1,same x 2 ; unclear,low visibility
+H48,7/4/24,cb,1,0,1,small group,bull,0,0,1,0,N/A,N/A,super short clip -- not enough time to check for lice or behavior
+H49,7/4/24,cb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H50,7/4/24,cb,1,1,1,large group,bull,0,0,1,1,1,same x 4 ; unclear,low visibility ; only herring rub
+H51,7/4/25,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 9 ; unclear,
+H51,7/4/25,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H52,7/9/22,cb,1,1,1,large group,bull,0,0,1,0,N/A,N/A,listed in provided notes as smelt rubbing -- confirmed via visual inspection ; Caligus visible in water column ; herring present
+H52,7/9/22,cb,0,1,1,large group,bull,0,0,1,0,N/A,N/A,listed in provided notes as smelt rubbing -- confirmed via visual inspection ; Caligus visible in water column
+H53,7/10/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 32 ; unclear,hering rub on herring
+H54,7/10/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 2 ; unclear,Caligus visible in water column ; low visibility / lots of particulates
+H54,7/10/22,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column ; low visibility / lots of particulates
+H55,7/15/23,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H55,7/15/23,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,"Caligus visible in water column ; lice visible on the surrounding school, but too far / clustered to see the specific fish that are rubbing"
+H56,7/15/23,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H57,7/17/22,cb,1,0,1,large group,bull,0,0,1,1,1,same x 14 ; unclear,small herring ; Caligus visible in water column ; sandlance! ; numerous lice on each schooling herring
+H58,7/17/22,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,lice visible in water column
+H59,7/17/22,cb,1,0,1,large group,N/A,1,0,0,0,N/A,N/A,debris = small floating stick
+H60,7/17/22,cb,1,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H61,7/17/22,cb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H62,7/17/22,cb,1,1,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H63,7/17/22,cb,1,1,1,large group,bull,0,0,1,0,N/A,N/A,only herring rub
+H64,7/17/22,cb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H65,7/17/22,cb,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+H66,7/17/22,cb,1,1,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; only herring rub ; Caligus visible in water column
+H66,7/17/22,cb,1,1,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; only herring rub ; Caligus visible in water column
+H66,7/17/22,cb,1,0,1,small group,bull,0,0,1,1,1,unclear,poor visibility & far away ; Caligus visible in water column
+H66,7/17/22,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; Caligus visible in water column
+H66,7/17/22,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; Caligus visible in water column
+H67,7/17/22,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; Caligus visible in water column ; lots of herring collisions
+H68,7/17/22,cb,1,0,1,small group,N/A,1,0,0,0,N/A,N/A,debris = eelgrass ; very brief -- scared away
+H68,7/17/22,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H69_lice,7/29/22,cb,1,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,cool video of Caligus swimming in the water body!
+H70,7/29/22,cb,1,0,1,large group,bull,0,0,1,1,1,same x 4 ; unclear,Caligus visible in water column
+H71,9/27/20,wc,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility ; Caligus visible in water column
+H72,9/27/20,wc,1,0,1,large group,bull,0,0,1,0,N/A,N/A,poor visibility & far away ; Caligus visible in water column ; larger herring
+H73,9/27/20,wc,1,0,1,large group,bull,1,0,1,0,N/A,N/A,floating bull kelp debris (rub on stipes only) ; Caligus visible in water column ; larger herring
+H73,9/27/20,wc,1,0,1,large group,bull,1,0,1,0,N/A,N/A,more floating bull kelp debris (rub on stipes only) ; Caligus visible in water column ; larger herring
+H74,9/27/20,wc,1,0,1,large group,bull,0,0,1,0,N/A,N/A,larger herring
+H75,6/29/25,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,smaller herring
+H76,7/19/24,cb,1,0,1,large group,N/A,1,0,0,1,1,unclear,debris = eelgrass
+H77,8/24/23,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column
+H77,8/24/23,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column
+H78,6/25/24,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column
+H79,7/2/23,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Very far / hard to see ---- seems like rubbing. Run into kelp stalk a few times
+H80,7/28/25,slc,1,0,1,large group,N/A,1,0,0,1,1,unclear,debris = floating plant stock
+H83,7/16/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 7 ; unclear,Caligus visible in water column
+H83,7/16/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 21 ; unclear,Caligus visible in water column
+H84,7/16/22,fwb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H85,6/29/24,cb,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
+H86,6/29/24,cb,1,0,1,large group,bull,0,0,1,1,1,same x 13 ; unclear,smaller herring
+H87,7/16/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 14 ; unclear,very poor visibility and heavy current ; Caligus visible in water column
+H88,7/16/22,fwb,1,0,1,large group,bull,0,0,1,1,1,same x 8 ; unclear,very poor visibility and heavy current ; small herring
+H89,No date (2019-2025),N/A,0,1,1,large group,bull,1,0,1,1,1,unclear,smelt AND SHINER PERCH rubbing ; Possible Lepeoptheirus salmonis parasitisms of smelt ; debris = kelp stipe
+H90,No date (2019-2025),N/A,1,0,1,large group,bull,0,0,1,0,N/A,N/A,Caligus visible in water column
+H90,No date (2019-2025),N/A,1,0,1,large group,bull,0,0,1,0,N/A,N/A,
